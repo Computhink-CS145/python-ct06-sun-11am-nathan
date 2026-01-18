@@ -1,4 +1,15 @@
 print("Hello from lesson 1")
+print("My name is nathan.")
+print("I will invest my money")
+
+
+
+
+
+
+
+
+
 
 ######### The below is the code required for task 2a ##########
 # print("1")
@@ -11,7 +22,7 @@ print("Hello from lesson 1")
 # print("8")
 # print("9")
 # print("10")
-# print("11")
+print("11")
 # print("12")
 # print("13")
 # print("14")
@@ -28,12 +39,12 @@ print("Hello from lesson 1")
 # print("25")
 # print("26")
 # print("27")
-# print("28")
+print("28")
 # print("29")
 # print("30")
 # print("31")
 
-# print("January")
+print("January")
 # print("February")
 # print("March")
 # print("April")
@@ -52,8 +63,8 @@ print("Hello from lesson 1")
 # print("2023")
 # print("2024")
 # print("2025")
-# print("2026")
-# print("2027")
+print("2026")
+print("2027")
 # print("2028")
 # print("2029")
 # print("2030")
