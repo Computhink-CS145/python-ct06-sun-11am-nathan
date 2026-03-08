@@ -8,7 +8,7 @@
 
 # for count in range(99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999):
 #     print(67)
-
+# 
 # for something in range(100):
 #     print("I like chicken rice.")
 
@@ -38,14 +38,19 @@
 # for count in range(8,97,8):
 #     print(count)
 
-n1 = int(input("give me a number: "))
-n2 = int(input("give me a another number: "))
-if n1 < n2:
-    start = n2
-    stop = n1
-else:
-    start = n1
-    stop = n2
+# n1 = int(input("give me a number: "))
+# n2 = int(input("give me a another number: "))
+# if n1 < n2:
+#     start = n2
+#     stop = n1
+# else:
+#     start = n1
+#     stop = n2
 
-for count in range(start,stop):
-    print(count)
+# for count in range(start,stop):
+#     print(count)
+
+sum = 0
+for num in range(10):
+    sum = sum + num
+print(sum)
