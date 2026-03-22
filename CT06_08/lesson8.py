@@ -41,3 +41,14 @@
 # random_num = random.randint(1,10)
 # guess = int(input("pick a random number between 1 to 10"))
 # print(random_num == guess)
+
+# import random
+
+# num_questions = int(input("How many questions? "))
+# for i in range(num_questions):
+#     num1 = random.randint(1,20)
+#     num2 = random.randint(1,20)
+# question = f"what is {num1} x {num2}? "
+# corr_ans = num1 * num2
+# user_ans = int(input(question))
+# # if corr_ans == user_ans
